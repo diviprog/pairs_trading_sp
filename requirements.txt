@@ -6,6 +6,7 @@ numpy>=1.24.0            # Numerical computing
 # Statistical Analysis
 statsmodels>=0.14.0      # Cointegration tests (Engle-Granger)
 scipy>=1.10.0            # Statistical functions
+scikit-learn>=1.3.0      # PCA for fast pair pre-filtering
 
 # Visualization
 matplotlib>=3.7.0        # Plotting library
