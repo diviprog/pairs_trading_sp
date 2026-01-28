@@ -1,0 +1,21 @@
+# Data Collection & Manipulation
+yfinance>=0.2.0          # Download stock data from Yahoo Finance
+pandas>=2.0.0            # Data manipulation and analysis
+numpy>=1.24.0            # Numerical computing
+
+# Statistical Analysis
+statsmodels>=0.14.0      # Cointegration tests (Engle-Granger)
+scipy>=1.10.0            # Statistical functions
+
+# Visualization
+matplotlib>=3.7.0        # Plotting library
+seaborn>=0.12.0          # Statistical visualization
+
+# Jupyter
+jupyter>=1.0.0           # Jupyter notebook
+ipykernel>=6.0.0         # Jupyter kernel
+
+# Web scraping (for S&P 500 list)
+beautifulsoup4>=4.12.0   # HTML parsing
+requests>=2.31.0         # HTTP requests
+lxml>=4.9.0              # XML/HTML parser
